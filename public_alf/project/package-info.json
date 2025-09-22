@@ -1,0 +1,36 @@
+{
+  "name": "alf-id-website",
+  "version": "1.0.0",
+  "description": "Website moderno e responsivo para ALF ID - Especialistas em Certificados Digitais",
+  "author": "ALF ID Development Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alfid/website.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "vite",
+    "tailwind",
+    "express",
+    "certificados-digitais",
+    "landing-page"
+  ],
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
