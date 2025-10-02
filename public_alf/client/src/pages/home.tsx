@@ -7,7 +7,7 @@ import ScrollReveal from "@/components/scroll-reveal";
 import { useState, useEffect } from "react";
 
 export default function Home() {
-  const whatsappLink = "https://wa.me/5511958533095";
+  const whatsappLink = "https://wa.me/5511964813239";
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   const toggleMobileMenu = () => {
